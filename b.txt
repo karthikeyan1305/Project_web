@@ -1,0 +1,6 @@
+#!/bin/bash
+login input valid ()
+{
+i=a, b,c
+x=a+b++c
+}
